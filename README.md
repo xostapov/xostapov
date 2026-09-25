@@ -18,6 +18,9 @@ xostapov@github:~$ whoami
 xostapov@github:~$ cat contacts.txt
 > Telegram : https://t.me/xostapov
 > Discord  : https://discord.gg/xostapov
+
+xostapov@github:~$ ls repos/
+> SimpleFileManager   cpp-tcp-chat
 ```
 
 <br/>
@@ -56,33 +59,36 @@ xostapov@github:~$ cat contacts.txt
 
 <br/>
 
-### 📊 GitHub статистика
+### 📊 Активность
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=xostapov&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xostapov&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=xostapov&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
-> ⚠️ Виджеты выше — сторонний бесплатный сервис на Vercel/Heroku, иногда отдаёт 503. Если картинки не грузятся — подожди или задеплой свой форк (см. заметку в конце).
-
 <br/>
 
-### 📌 Закреплённые проекты
+### 📌 Проекты
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/xostapov/SimpleFileManager">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xostapov&repo=SimpleFileManager&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/xostapov/cpp-tcp-chat">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xostapov&repo=cpp-tcp-chat&theme=tokyonight&hide_border=true" />
-</a>
+**[📁 SimpleFileManager](https://github.com/xostapov/SimpleFileManager)**
+Консольный файловый менеджер
+`C++`
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+**[💬 cpp-tcp-chat](https://github.com/xostapov/cpp-tcp-chat)**
+TCP-чат на C++
+`C++`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
